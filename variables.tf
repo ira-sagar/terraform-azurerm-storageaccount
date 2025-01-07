@@ -8,7 +8,7 @@ variable "environment" {
 variable "location" {
   type        = string
   description = "The resource location"
-  default = "eastUS"
+  default = "southcentralus"
 }
 
 variable "resource_group_name" {
